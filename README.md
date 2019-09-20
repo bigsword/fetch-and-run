@@ -5,6 +5,8 @@ Currently in the docker image, boto3 and psycopg2 are installed.
 
 Please populate the following environment variables before run the container.
 
+
+
 BUCKET_NAME: where to download the .py script.
 
 SCRIPT_PATH_NAME: the name of the .py script to run.
