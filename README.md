@@ -13,3 +13,8 @@ Please populate the following environment variables before run the container.
 `SCRIPT_LIBS`: supporting .py or .json or any other file needed to be downloaded. They will be download into the same folder with the main python script.
 
 `SCRIPT_ARGS`: args will be pass into the python script. they should look like this: `--parameter-name value --another value2`
+
+# how to use
+
+this repo linked to docker hub, and you can use this docker image by ref:
+`bigsword/fetch-and-run`
